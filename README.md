@@ -1,2 +1,2 @@
 # webDevProjects
-this is a simple HTML-CSS static website
+this is a simple static website which created just by HTMLand CSS 
